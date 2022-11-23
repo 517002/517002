@@ -1,2 +1,3 @@
 git is fast
 git is my second tool
+git is very hard to learn
