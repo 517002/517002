@@ -3,5 +3,10 @@ git is my second tool
 git is so smart
 git is lightweight to use
 <<<<<<< HEAD
+<<<<<<< HEAD
 git is very important 
 git is bad to hard
+=======
+git is easy to learn
+git is very important 
+>>>>>>> 16eb065aa1e765c486ef8c0d8b9132b5f63e317d
