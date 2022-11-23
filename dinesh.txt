@@ -1,3 +1,7 @@
 git is fast
 git is my second tool
+<<<<<<< HEAD
 git is so smart
+=======
+git is lightweight to use
+>>>>>>> 14a5d1400c9ba7c7fd71a13c96510b8ecde80426
