@@ -2,4 +2,5 @@ git is fast
 git is my second tool
 git is so smart
 git is lightweight to use
-git is easy to learn
+git is very important 
+git is bad
