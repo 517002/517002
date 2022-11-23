@@ -1,10 +1,7 @@
 git is fast
 git is my second tool
-<<<<<<< HEAD
 git is so smart
-=======
 git is lightweight to use
-<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 git is very important 
@@ -13,7 +10,3 @@ git is bad to hard
 git is easy to learn
 git is very important 
 >>>>>>> 16eb065aa1e765c486ef8c0d8b9132b5f63e317d
-=======
->>>>>>> 14a5d1400c9ba7c7fd71a13c96510b8ecde80426
->>>>>>> parent of cff076a (task 5)
-hi iam dinesh
