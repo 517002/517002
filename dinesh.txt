@@ -4,4 +4,4 @@ git is so smart
 git is lightweight to use
 <<<<<<< HEAD
 git is very important 
-git is bad to 
+git is bad to hard
