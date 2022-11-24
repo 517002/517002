@@ -6,3 +6,4 @@ git is very important
 git is bad to hard
 git is easy to learn
 git is very important 
+this is added in task1 branch
